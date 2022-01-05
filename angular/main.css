@@ -1,0 +1,33 @@
+body{
+    background-image:url('image/backgroundimage.jpg');
+    background-size: 1366px 700px ;
+}
+.menu{
+    text-align: right;
+    margin-left: 510px;
+}
+button{
+    background-color: yellow;
+    border: greenyellow solid 3px;
+    color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+h1{
+    
+    color: #B8193E;
+}
+.container{
+    display: flex;
+    margin-top: 492px;
+}
+p{
+    text-align: justify;
+    color: white;
+    margin-left: auto;
+}
+.container1{
+    display: flex;
+}
